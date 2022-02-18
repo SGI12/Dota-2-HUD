@@ -1,0 +1,14 @@
+[
+    {
+        "bind":"Alt+N",
+        "action":"scoreboard"
+    },
+    {
+        "bind":"Alt+M",
+        "action":"game"
+    },
+    {
+        "bind":"Alt+B",
+        "action":"draft"
+    }
+]

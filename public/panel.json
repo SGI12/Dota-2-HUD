@@ -1,0 +1,31 @@
+[
+    {
+        "label": "View",
+        "name":"view",
+        "inputs": [
+            {
+                "type": "text",
+                "name": "info_box",
+                "label": "Top right corner match info"
+            },
+            {
+                "type": "action",
+                "name": "viewType",
+                "values": [
+                    {
+                        "name": "draft",
+                        "label": "Show draft"
+                    },
+                    {
+                        "name": "game",
+                        "label": "Show game"
+                    },
+                    {
+                        "name": "scoreboard",
+                        "label": "Show scoreboard"
+                    }
+                ]
+            }
+        ]
+    }
+]
